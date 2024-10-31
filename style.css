@@ -97,7 +97,11 @@ p
         align-items: center;
     }
 
-
+    
+    .one
+    {
+        grid-row-start: 3;
+    }
 
 
 
