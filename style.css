@@ -108,17 +108,15 @@ ul{
     }
 
     
-    .one
-    {
-        grid-row-start: 3;
-    }
-
-
     .img-single{
         grid-row: span 2;
         grid-column: span 2;
         height: 670px;
         
+    }
+
+    .img-half{
+        grid-column: span 2;
     }
 
     a:link{
